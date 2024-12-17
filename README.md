@@ -1,10 +1,10 @@
 ## <p align="center">NutriGuard</p>
 
 <p align="center">
-  <img src="../assets/logo.png" width="200" height="200" alt="NutriGuard Logo">
+  <img src="logo.png" width="200" height="200" alt="NutriGuard Logo">
 </p>
 
-#### <p align="center">Your Home Needs with One Touch!</p>
+#### <p align="center">Blabla ini tagline</p>
 
 <p align="center">This project aims to fulfill the requirements of the <strong><a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</a></strong>.</p>
 
@@ -14,7 +14,7 @@
     <a href="https://example.com">Presentation Slide</a> &middot;
     <a href="https://example.com">Business Market Proposal</a> 
 </p>
-<p align="center" style="margin-top: -10px;">© ENTS-H118 Bangkit 2024 Capstone Team</p>
+<p align="center" style="margin-top: -10px;">© C242-PR647 Bangkit 2024 Capstone Team</p>
 </br>
 
 #### <p align="center"> <a href="https://example.com"> Visit Now!</a> </p>
