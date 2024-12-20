@@ -23,7 +23,7 @@
 
 ## Table of Content
 
-- [About NutriGuard](#about-housespot)
+- [About NutriGuard](#about-nutriguard)
 - [Background](#background)
 - [Repositories Documentation](#repositories-documentation)
   - [Machine Learning Development Documentation](#machine-learning-development-documentation)
