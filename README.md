@@ -10,8 +10,8 @@
 
 <p align="center" style="margin-bottom: 20px; line-height: 0.8;">
     <a href="https://example.com">Project Plan</a> &middot;
-    <a href="https://example.com">Project Brief</a> &middot;
-    <a href="https://example.com">Presentation Slide</a> &middot;
+    <a href="https://drive.google.com/file/d/1lV2Yl1h0pj63MZvE62RV2WBLuhlicLU6/view?usp=sharing">Project Brief</a> &middot;
+    <a href="https://example.com](https://www.canva.com/design/DAGYnLpdC4o/s8vpCo4-mFged6tLuGE4cg/edit">Presentation Slide</a> &middot;
     <a href="https://example.com">Business Market Proposal</a> 
 </p>
 <p align="center" style="margin-top: -10px;">© C242-PR647 Bangkit 2024 Capstone Team</p>
