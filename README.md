@@ -4,7 +4,7 @@
   <img src="logo.png" width="200" height="200" alt="NutriGuard Logo">
 </p>
 
-#### <p align="center">Blabla ini tagline</p>
+#### <p align="center">Guarding Your Well-Being, One Bite at Time</p>
 
 <p align="center">This project aims to fulfill the requirements of the <strong><a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</a></strong>.</p>
 
