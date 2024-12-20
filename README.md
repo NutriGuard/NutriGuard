@@ -35,7 +35,9 @@
 ## About NutriGuard
 
 **NutriGuard** is an AI-powered web application designed to revolutionize healthy eating by providing personalized food and meal recommendations based on user preferences and dietary needs. The app considers a wide range of variables, including cooking time, calorie requirements, health conditions (e.g., diabetes-friendly), flavor preferences, meal types (e.g., snacks, desserts), and halal compliance.
+
 By leveraging advanced machine learning, NutriGuard simplifies the process of choosing meals by offering tailored ingredient and meal suggestions that save time, support balanced diets, and meet specific health goals. It addresses underserved dietary needs, such as halal compliance and culturally relevant food options, empowering users to make informed food choices with ease.
+
 The project employs the K-Prototypes algorithm for food clustering and deep learning models to predict new clusters, ensuring precise and dynamic recommendations. A user-friendly interface enables users to input preferences and receive personalized suggestions seamlessly. NutriGuard combines cutting-edge technology with nutritional science to promote inclusivity, convenience, and healthier lifestyles for a diverse global audience.
 
 
